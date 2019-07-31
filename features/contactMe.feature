@@ -6,3 +6,4 @@ Feature: Contact me
     When I verify the Contact Me page loaded
     Then I write my comment "Hello world! This is Selenium test."
     And I click on Post Comment button
+    1111111111111
