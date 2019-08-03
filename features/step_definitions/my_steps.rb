@@ -1,4 +1,4 @@
- driver_path = "C:/Users/Eter/Desktop/automation_practical_sqa-master/drivers/chromedriver.exe"
+ driver_path = "c:/Users/Eter/RubymineProjects/Selenium_driver_Cucumber_AT/drivers/chromedriver.exe"
 # driver_path =  File.join(File.dirname(__FILE__), "..", "..", "drivers","chromedriver.exe")
 
 
